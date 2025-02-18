@@ -14,7 +14,7 @@
 ## 🛠️ Technologies Used
 - Java
 - Scanner (for user input)
-- TreeMap (for storing player data)
+
 
 ## ▶️ How to Run
 1. **Install Java** (if not already installed).
